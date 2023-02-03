@@ -1,0 +1,14 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.nav-item {
+  font-size: larger !important;
+}
+
+.nav-link {
+ color: darkgreen;
+}
+
+.nav-item-footer {
+  padding-left: 20px !important;
+  margin-left: 20px !important;
+}
