@@ -4,6 +4,10 @@
   font-size: larger !important;
 }
 
+.bi {
+  color: green !important;
+}
+
 .nav-link {
  color: #379A87;
 }
