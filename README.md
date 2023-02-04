@@ -10,3 +10,5 @@ https://getbootstrap.com/docs/
 
 Useful sites:
 www3 schools
+
+https://education.github.com/git-cheat-sheet-education.pdf
